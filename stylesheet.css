@@ -68,6 +68,13 @@ a {
     margin-right: 5px;
 }
 
-.header {
+header {
     height: 65px;
+    background-color: rgba(34, 49, 52, 0.9);
+}
+
+
+.logo {
+    width: 124px;
+    margin-top: 20px;
 }
